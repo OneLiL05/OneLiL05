@@ -3,6 +3,6 @@
 I'm Frontend Developer
 
 Bio: 
-* 💬 Ask me about: JS, Jamstack, Scss, React and a11ty
-* ⚙️ Daily use `.js`, `.scss` `.jsx`
+* 💬 Trying to write human-like interfaces using React;
+* ⚙️ Currently working on [OneDo](https://github.com/OneLiL05/onedo);
 * 📫 Have any questions: [@onelil05](https://twitter.com/onelil05)
